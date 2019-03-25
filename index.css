@@ -4,19 +4,20 @@ body {
   background-color: #111;
   max-width:100%;
 }
+
 h2 {
   font-size: 24px;
   text-transform: uppercase;
   color: #303030;
   font-weight: 600;
-  margin-bottom: 30px;
+  margin-bottom: 70px 0;
 }
 h4 {
   font-size: 19px;
   line-height: 1.375em;
   color: #303030;
   font-weight: 400;
-  margin-bottom: 30px;
+  margin-bottom: 70px 0;
 }  
 .container-fluid {
   padding: 60px 50px;
@@ -54,7 +55,7 @@ h4 {
   line-height: 1.375em;
   font-weight: 400;
   font-style: italic;
-  margin: 70px 0;
+  margin: 30px;
 }
 .item span {
   font-style: normal;
@@ -225,7 +226,10 @@ footer .glyphicon {
 	transform: translate(-50%, -50%);
 }
 .margin-lg {
-    margin: 0px 150px 50px 150px;      
+    margin: 0px 150px 20px 150px;      
+}
+.margin-lg-inscricao {
+    margin: 0px 150px 10px 150px;      
 }
 .margin-sm {
     margin: 0px 20px 0px 20px;      
