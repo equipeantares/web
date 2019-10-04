@@ -1,9 +1,15 @@
 body {
-  font: 400 15px Lato, sans-serif;
+  font: 400 15px Oswald;
   line-height: 1.8;
   background-color: #111;
   max-width:100%;
 }
+
+@font-face {
+    font-family: Oswald;
+    src: url(Oswald.ttf);
+}
+
 
 h2 {
   font-size: 24px;
